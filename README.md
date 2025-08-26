@@ -9,9 +9,10 @@
   🤖 Powerful • ⚡ Fast • 💎 Stylish
 </p>
 
----
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=FF0000&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
-p align="center">
+
+<p align="center">
   <a
 ## 📌 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 📌
 
