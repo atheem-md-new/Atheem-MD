@@ -1,2 +1,1 @@
-# Atheem-MD
-For powerful bot
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=-DEPLOY+NOW+ATHEEM+MD+BOT)](https://git.io/typing-svg)
