@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=-𝗗𝗘𝗣𝗟𝗢𝗬+𝗡𝗢𝗪+𝗔𝗧𝗛𝗘𝗘𝗠+𝗠𝗗+𝗕𝗢𝗧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=-𝗗𝗘𝗣𝗟𝗢𝗬+𝗡𝗢𝗪+𝗔𝗧𝗛𝗘𝗘𝗠+𝗠𝗗+🇹🇿)](https://git.io/typing-svg)
